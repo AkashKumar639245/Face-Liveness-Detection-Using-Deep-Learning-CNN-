@@ -1,4 +1,4 @@
-# Face-Liveness-Detection-Using-Deep-Learning-CNN-
+# Face-Liveness-Detection-Using-Deep-Learning-CNN
 
 ## Project Overview
 
